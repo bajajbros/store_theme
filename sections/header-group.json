@@ -104,7 +104,7 @@
       "settings": {
         "menu": "main-menu",
         "secondary_menu": "main-menu",
-        "desktop_menu_position": "logo-left-menu--center",
+        "desktop_menu_position": "logo-center-menu--drawer",
         "enable_menu_background": true,
         "sticky_header": "on_scroll_up",
         "transparent_header": true,
