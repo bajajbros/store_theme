@@ -33,7 +33,7 @@
     "type_body_font": "twentieth_century_n4",
     "body_scale": 100,
     "type_body_letter_spacing": "0.02",
-    "navigation_font": "body",
+    "navigation_font": "accent",
     "font_weight": "normal",
     "button_font_weight": "normal",
     "button_letter_type": true,
