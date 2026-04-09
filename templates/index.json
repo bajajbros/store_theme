@@ -91,6 +91,7 @@
     },
     "featured_collection_knYHgc": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "color_scheme": "",
@@ -158,7 +159,7 @@
         "collection_tab_peRAkm": {
           "type": "collection-tab",
           "settings": {
-            "collection_heading": "",
+            "collection_heading": "New arrivals",
             "collection": "",
             "btn_text": "",
             "btn_size": "sm",
@@ -169,7 +170,7 @@
         "collection_tab_8mgXjU": {
           "type": "collection-tab",
           "settings": {
-            "collection_heading": "",
+            "collection_heading": "Men fashion",
             "collection": "",
             "btn_text": "",
             "btn_size": "sm",
@@ -180,7 +181,7 @@
         "collection_tab_nLLh99": {
           "type": "collection-tab",
           "settings": {
-            "collection_heading": "",
+            "collection_heading": "women fashion",
             "collection": "",
             "btn_text": "",
             "btn_size": "sm",
@@ -256,6 +257,7 @@
           "settings": {
             "color_scheme": "scheme-3",
             "collection": "",
+            "image": "shopify://shop_images/ChatGPT_Image_May_9_2025_03_22_52_AM.png",
             "subheading": "",
             "heading": "Occasion Ready",
             "heading_size": "h5",
@@ -272,6 +274,7 @@
           "settings": {
             "color_scheme": "scheme-3",
             "collection": "",
+            "image": "shopify://shop_images/Gemini_Generated_Image_z186vz186vz186vz.png",
             "subheading": "",
             "heading": "Eco Luxe",
             "heading_size": "h5",
@@ -288,6 +291,7 @@
           "settings": {
             "color_scheme": "scheme-3",
             "collection": "",
+            "image": "shopify://shop_images/ChatGPT_Image_May_11_2025_10_06_22_PM.png",
             "subheading": "",
             "heading": "Flat 15% OFF",
             "heading_size": "h5",
