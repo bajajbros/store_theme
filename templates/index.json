@@ -106,7 +106,7 @@
         "image_size": "adapt",
         "products_to_show": 4,
         "column_per_row": 4,
-        "mobile_item_per_row": "2",
+        "mobile_item_per_row": "1",
         "column_gap": 2,
         "column_gap_mobile": 10,
         "top_space_desktop": 70,
