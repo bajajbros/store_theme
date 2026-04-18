@@ -16,6 +16,7 @@
           "type": "image_slide",
           "settings": {
             "color_scheme": "scheme-3",
+            "image": "shopify://shop_images/t-shirt-store.jpg",
             "collection_list_enable": true,
             "collection_list": [],
             "content_width": "small",
@@ -91,7 +92,6 @@
     },
     "featured_collection_knYHgc": {
       "type": "featured-collection",
-      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "color_scheme": "",
@@ -103,7 +103,7 @@
         "description": "Discover the latest styles that are making waves this season—bold silhouettes, modern cuts, and effortless combinations curated for everyday chic.",
         "description_size": "text-base",
         "show_collection_title": false,
-        "collection": "",
+        "collection": "frontpage",
         "image_size": "adapt",
         "products_to_show": 4,
         "column_per_row": 4,
